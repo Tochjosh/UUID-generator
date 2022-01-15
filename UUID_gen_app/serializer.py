@@ -1,5 +1,4 @@
 from rest_framework import serializers
-
 from UUID_gen_app.models import Data
 
 
